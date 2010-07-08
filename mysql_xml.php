@@ -1,6 +1,6 @@
 <?
 
-// header("Content-type: application/json");
+header("Content-type: application/json");
 
 $options = parse_ini_file('mysql.ini', true);
 
