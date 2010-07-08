@@ -5,3 +5,9 @@ host=<host>
 port=<port>
 user=<user>
 pass=<pass>
+
+[2]
+host=<host>
+port=<port>
+user=<user>
+pass=<pass>
