@@ -1,0 +1,15 @@
+mysql.ini is a necessary file not included with this distribution.  It should match the following:
+
+[1]
+host=<host>
+port=<port>
+user=<user>
+pass=<pass>
+
+[2]
+host=<host>
+port=<port>
+user=<user>
+pass=<pass>
+
+Check the "Example of Output" wiki page for what you can expect to see in your browser.
